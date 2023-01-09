@@ -21,7 +21,7 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ## Meet my work on other networks..
-[<img src="https://www.alura.com.br/assets/img/home/alura-logo.1647533643.svg" height="25">](https://cursos.alura.com.br/user/jose-machado6/fullCertificate/5de15c6bc8b65b8a6ab13a26d2aec840)
+[<img src="https://www.alura.com.br/assets/img/home/alura-logo.1647533643.svg">](https://cursos.alura.com.br/user/jose-machado6/fullCertificate/5de15c6bc8b65b8a6ab13a26d2aec840)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jos%C3%A9-machado-4b787138/)
 
 ## Core Repositories
