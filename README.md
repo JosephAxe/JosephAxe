@@ -1,6 +1,6 @@
 <h1 align="center">José Machado</h1>
 
-I am a technology enthusiast and I am interested in several areas of knowledge. I have a postgraduate degree in Occupational Safety Engineering, Pedagogical Training for Unlicensed Graduates - Physics, a postgraduate degree in Higher Education Teaching and a degree in Electrical Engineering. In professional terms, I have worked in electrical design, oil prospecting, steel and biomedical companies. I have good fluency in English and I am currently dedicating myself to learning programming.
+I am a technology enthusiast and I am interested in several areas of knowledge. I am graduating in Data Science and I have a postgraduate degree in Occupational Safety Engineering, Pedagogical Training for Unlicensed Graduates - Physics, a postgraduate degree in Higher Education Teaching and a degree in Electrical Engineering. In professional terms, I have worked in electrical design, oil prospecting, steel and biomedical companies. I have good fluency in English and I am currently dedicating myself to learning programming.
 
 
 ## Details
